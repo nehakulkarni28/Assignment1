@@ -18,12 +18,3 @@ This program:
 - Prints greeting message
 
 File: task2.py
-
-
-## How to run
-
-Run Task 1:
-python task1.py
-
-Run Task 2:
-python task2.py
